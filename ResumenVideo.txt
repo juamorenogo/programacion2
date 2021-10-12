@@ -1,0 +1,52 @@
+Resumen Video
+
+Se ve a Python como un lenguaje de programacion para todo tipo de objetivos y propositos, debido a su facilidad de uso, facilidad de aprendizaje, gran comunidad que impulsa una cantidad impresionante de librerias que facilitan el trabajo. La funcion mas basica en Python es print(para su uso se hace print""), una funcion que destaca por imprimir o mostrar en la pantalla un texto literal o diferentes valores de variables, variables que pueden tener diferentes tipos como numerico de texto boolenao entre muchos otros, para esto se define con un nombre especifico que hace referencia al tipo como puede ser int, char, string y mucho mas.
+
+Entre otras funciones utiles encontramos type() para mostrar el tipo de dato, dir que nos muestra diferentes funcionalidades para cada tipo de dato, input que sirve como metodo de lectura y guardado de informacion para una variable. A su vez una variable ha de tener unas caracteristicas especificas, primero ha de contar con un nombre unico que la diferencie, en un principio esta variable es capaz de guardar cualquier tipo de dato sin problema, posterior a esto se le puede asignar un tipo especifico de dato pero es opcional. Por otro lado existe el case sensitive que hace referencia a la diferenciacion de variables aunque sea solo por una letra en diferente estado como puede ser una variable llamada año y Año, son leidas como variables diferentes, tambien contamos conn una serie de limitantes para los nombres tal como el uso de numeros como primer caracter del nombre de la variable o la imposibilidad de crear variables con nombres que cuenten con espacios de por medio. Algo a tener en cuenta es que existen reglas de la comunidad que no significan un cambio sustancial en el codigo, como bien puede ser el uso de una variable con un nombre totalmente en mayusculas para dar a entender que es una variable a la que no se le debe cambiar nada.
+
+Los tipos basicos que encontramos en variables son:
+
+-Str : Usado para cadenas de texto, puede existir cualquier tipo de caracter en esta variable sin problema, a su vez si se usa * al momento de imprimir junto a otra variable del mismo tipo, se concatena.
+
+-Bool : Usado para dar a entender un estado con solo dos posiblidades, verdadero o falso.
+
+-Int : Usada para guardar numeros enteros no mayores a 12 caracteres.
+
+-Float : Usada para guardar cualquier tipo de numero sin limite alguno.
+
+Posterior a esto tenemos unas variables diferentes como pueden ser:
+
+-List : Usada para guardar diferentes listas de algun tipo de dato.
+
+-Tuple : Viene a ser un tipo de lista, con la diferencia que sus datos una vez ingresados son inamovibles, su uso es especialmente para garantizar seguridad.
+
+-Set : Se podria entender como un conjunto de datos similar a una lista, no obstante este tipo de variable es caotica por lo que no tiene orden ni mucho menos indice.
+
+-Dict : Su uso esta enfocado en la asignacion de una key o nombre clave a cierto grupo de datos, para facilitar ciertos procesos.
+
+Una de las estructuras de programacion mas usadas, son las condicionales, gracias a estas somos capaces de llevar el codgio por diferentes vertientes, para eso se establece primero unos datos a evaluar, posterior se establece la condicion a evaluar a esos datos y dependiendo de ese analisis se genera una cierta salida, la forma mas basica en que encontramos este tipo de estructura es conocida como IF, que puede derivar en IFELSE o ElSE o SWITCH CASE. Para poder generar una condcion, se usan diferentes tipos de simbolos como <,>,==, != y muchos mas, a su vez se usan simbolos tales como &&,|| para poder expandir la cantidad de condiciones, siendo estos simbolos representantes respectivamente de and, or, su simbologia puede variar segun el lenguaje.
+
+Otra de las estructuras mas usadas, son las ciclicas, para las cuales, primero se define una condicion a evaluar, esta condicion sera evaluada en cada ocasion que la estructura de una vuelta a si misma, y seguira cumpliendose siempre y cuando la condicion asignada no se cumpla, para esto existen diferentes ciclos tales como FOR, DO-WHILE y algunos otros.
+
+Como se menciono anteriormente, la comunidad presta su servicio por medio de ayudas que conocemos como librerias, estas mismas almacenan funciones con un fin especifico, siendo las funciones secciones de codigo ya creadas previamente para cumplir una funcion en especifico, estas pueden ser tanto creadas de 0 como descargadas y usadas de manera simple y rapida. Los diferentes tipos de librerias y por consiguiente funciones son en primer lugar las basicas del lenguaje, en este caso Python, posteriormente las creadas por mano propia y finalmente las descargadas de alguna web en internet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
